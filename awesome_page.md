@@ -8,4 +8,4 @@
 
 ![Working on GPS](screenshot.png)
 
-THIS IS ATHENS!!!!
+* THIS IS SPARTA!!!
